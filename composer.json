@@ -9,7 +9,9 @@
         }
     ],
     "minimum-stability": "stable",
-    "require": {},
+    "require": {
+        "guzzlehttp/guzzle": "5.1.0"
+    },
     "autoload": {
         "psr-4": {
             "FreeAgent//": "src/FreeAgent"
