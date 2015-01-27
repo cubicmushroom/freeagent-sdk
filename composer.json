@@ -14,7 +14,7 @@
     },
     "autoload": {
         "psr-4": {
-            "FreeAgent//": "src/FreeAgent"
+            "FreeAgent\\": "src/FreeAgent"
         }
     }
 }
